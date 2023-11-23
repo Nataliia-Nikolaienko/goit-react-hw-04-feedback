@@ -1,0 +1,22 @@
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container {
+  width: 600px;
+  min-height: 400px;
+  padding: 20px;
+  background-color: steelblue;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 40px;
+  color: aliceblue;
+  text-align: center;
+  margin-bottom: 30px;
+}
